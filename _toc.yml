@@ -6,3 +6,7 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
+  sections:
+  - file: mymarkdownfile
+- file: s2
+- file: s3
